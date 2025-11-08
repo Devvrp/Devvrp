@@ -1,35 +1,42 @@
-name: Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
+  # Jalankan otomatis tiap 12 jam
   schedule:
     - cron: "0 */12 * * *"
+  # Bisa dijalankan manual dari GitHub Actions tab
   workflow_dispatch:
+  # Jalankan setiap kali ada commit ke main (opsional)
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
   build:
+    name: Build Snake Animation
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: 🐍 Generate Snake SVG (Light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Devvrp
           outputs: dist/snake.svg
 
-      - name: Generate Snake Dark
+      - name: 🌑 Generate Snake SVG (Dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Devvrp
           palette: github-dark
           outputs: dist/snake-dark.svg
 
-      - name: Deploy to output branch
+      - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
