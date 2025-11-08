@@ -56,10 +56,10 @@
 
 ---
 
-<h3 align="center">🚀 Activity & Contributions 🐍</h3>
+<h3 align="center">Activity & Contributions</h3>
 
 <p align="center">
-  <img src="https://github.com/Devvrp/Devvrp/blob/output/github-contribution-grid-snake.svg?v=1" alt="Contribution Snake Animation">
+  <img src="https://raw.githubusercontent.com/Devvrp/Devvrp/output/dist/snake-dark.svg" alt="snake animation dark">
 </p>
 
 ---
