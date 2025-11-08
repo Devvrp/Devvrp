@@ -48,7 +48,7 @@
       </p>
       <h3 align="center">GitHub Trophies</h3>
       <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Devvrp&theme=pastel&column=7&margin-w=15&margin-h=15&v=1" alt="GitHub Trophies">
+        <img src="https://raw.githubusercontent.com/Devvrp/Devvrp/output/dist/snake-dark.svg" />
       </p>
     </td>
   </tr>
