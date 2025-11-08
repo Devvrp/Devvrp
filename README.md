@@ -44,7 +44,7 @@
       </p>
       <h3 align="center">WakaTime Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakaTime?username=Depin&theme=bento&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/wakaTime?username=depin&theme=bento&layout=compact">
       </p>
       <h3 align="center">GitHub Trophies</h3>
       <p align="center">
