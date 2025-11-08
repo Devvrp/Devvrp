@@ -2,10 +2,9 @@
   <img src="https://github.com/user-attachments/assets/9cea2f58-0931-4afc-9ecc-39747c3eb8a2" alt="Devvrp Banner">
 </p>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Devvrp;A+developer+passionate+about Technology;Welcome+to+my+digital+playground&v=1" alt="Animated Typing Text">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Devvrp;A+developer+passionate+about+technology;Welcome+to+my+digital+playground" />
 </h1>
+
 
 <table width="100%" border="0" cellpadding="20">
   <tr valign="top">
