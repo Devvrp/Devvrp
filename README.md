@@ -29,7 +29,7 @@
       </details>
       <h3 align="left">🔴 Live Status</h3>
       <p align="left">
-        <a href="https://api.lanyard.rest/v1/users/1237399162044289095" target="_blank">
+        <a href="https://lanyard.cnrad.dev/api/1237399162044289095" target="_blank">
           <img src="https://lanyard.cnrad.dev/api/1237399162044289095?theme=dark&bg=1c1c1c&borderRadius=8px&showDisplayName=true&v=1">
         </a>
       </p>
