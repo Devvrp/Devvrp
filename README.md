@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_BANNER_BUATANMU_DI_SINI" alt="Devvrp Banner">
+  <img src="https://github.com/user-attachments/assets/9cea2f58-0931-4afc-9ecc-39747c3eb8a2" alt="Devvrp Banner">
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -15,15 +15,15 @@
       </p>
       <h3 align="left">Get in Touch</h3>
       <p align="left">
-        <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>&nbsp;
-        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;
-        <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
+        <a href="mailto:devinradityapratama@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>&nbsp;
+        <a href="https://www.linkedin.com/in/devin-raditya-pratama"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;
+        <a href="https://instagram.com/dev1nese"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
       </p>
       <h3 align="left">Skills & Technologies</h3>
       <details>
         <summary>See my tech stack</summary>
         <p align="left">
-          <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,js,git,github,vscode,tailwind,bootstrap,react,nextjs,laravel,vue,postgres&perline=12">
+          <img src="https://skillicons.dev/icons?i=python,html,css,js,php,tailwind,bootstrap,react,nextjs,laravel,vue,rust,swift,ruby,java,lua,c,mysql,postgres,sqlite,figma,linux,debian,ubuntu&perline=12">
         </p>
       </details>
       <h3 align="left">Now Playing</h3>
@@ -34,7 +34,7 @@
     <td width="50%">
       <h3 align="center">Core Stack</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,php,mysql,react,laravel,nextjs,vue,postgres&theme=dark" alt="My Stack">
+        <img src="https://skillicons.dev/icons?i=python,lua,react,laravel,swift,postgres&theme=dark" alt="My Stack">
       </p>
       <h3 align="center">GitHub Statistics</h3>
       <p align="center">
@@ -44,7 +44,7 @@
       </p>
       <h3 align="center">WakaTime Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakaTime?username=YOUR_WAKATIME_USERNAME&theme=bento&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/wakaTime?username=Depin&theme=bento&layout=compact">
       </p>
       <h3 align="center">GitHub Trophies</h3>
       <p align="center">
@@ -66,4 +66,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devvrp&color=00ff00&style=flat-square" alt="Profile Visitor Counter">
-</p># Devvrp
+</p>
