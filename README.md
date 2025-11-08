@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9cea2f58-0931-4afc-9ecc-39747c3eb8a2" alt="Devvrp Banner">
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=200&lines=Hi%2C+I'm+Depin;A+developer+passionate+about+technology;Welcome+to+my+digital+playground"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Depin;A+developer+passionate+about+technology;Welcome+to+my+digital+playground"/>
 </h1>
 
 
