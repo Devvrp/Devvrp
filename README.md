@@ -57,7 +57,6 @@
 ---
 
 <h3 align="center">Activity & Contributions</h3>
-
 <p align="center">
   <img src="https://github.com/Devvrp/Devvrp/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
