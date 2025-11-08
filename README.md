@@ -46,10 +46,11 @@
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=depin&theme=dark&layout=compact" />
       </p>
-      <h3 align="center">GitHub Trophies</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Devvrp/Devvrp/output/dist/snake-dark.svg" />
-      </p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Devvrp&theme=onestar&no-frame=true&no-bg=true&column=7">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Devvrp&theme=flat&no-frame=true&column=7">
+        <img src="https://github-profile-trophy.vercel.app/?username=Devvrp&theme=onestar&no-frame=true&column=7" alt="GitHub Trophies"/>
+      </picture>
     </td>
   </tr>
 </table>
