@@ -59,7 +59,7 @@
 <h3 align="center">Activity & Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devvrp/Devvrp/output/dist/snake-dark.svg" alt="snake animation dark">
+  <img src="https://raw.githubusercontent.com/Devvrp/Devvrp/output/dist/snake-dark.svg" />
 </p>
 
 ---
