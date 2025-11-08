@@ -30,7 +30,7 @@
       <h3 align="left">🔴 Live Status</h3>
       <p align="left">
         <a href="https://api.lanyard.rest/v1/users/1237399162044289095" target="_blank">
-          <img src="https://api.lanyard.rest/v1/users/1237399162044289095?theme=dark&bg=1c1c1c&borderRadius=8px&showDisplayName=true">
+          <img src="https://api.lanyard.rest/v1/users/1237399162044289095?theme=dark&bg=1c1c1c&borderRadius=8px&showDisplayName=true&v=1">
         </a>
       </p>
     </td>
@@ -41,11 +41,11 @@
       </p>
       <h3 align="center">📊 GitHub Statistics</h3>
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devvrp&theme=vue">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devvrp&theme=vue&v=1">
       </p>
       <h3 align="center">⏰ WakaTime Stats</h3>
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/wakatime?username=Depin&theme=vue">
+        <img src="https://github-readme-stats.vercel.app/api/wakaTime?username=Depin&theme=bento&layout=compact&v=1">
       </p>
       <h3 align="center">🏆 GitHub Trophies</h3>
       <p align="center">
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devvrp&color=00ff00&style=flat-square" alt="Profile Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=Devvrp&color=00ff00&style=flat-square&v=1" alt="Profile Visitor Counter">
 </p>
